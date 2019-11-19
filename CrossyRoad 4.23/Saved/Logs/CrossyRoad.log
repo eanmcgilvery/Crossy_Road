@@ -157,6 +157,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.11.19-01.41.08:152][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.19-01.41.08:152][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.11.19-01.41.08:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/17147/Documents/Unreal Projects/Crossy_Road/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
@@ -846,3 +847,549 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-02.02.21:577][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2019.11.19-02.02.21:784][240]LogSavePackage: Moving '../../../../../../Users/17147/Documents/Unreal Projects/Crossy_Road/Crossy_Road/CrossyRoad 4.23/Saved/SampleSceneAFEB995442CD50748217CB837936D06B.tmp' to '../../../../../../Users/17147/Documents/Unreal Projects/Crossy_Road/Crossy_Road/CrossyRoad 4.23/Content/Maps/SampleScene.umap'
 [2019.11.19-02.02.21:910][240]LogFileHelpers: Saving map 'SampleScene' took 0.362
+=======
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.19-01.35.15:827][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.19-01.35.15:828][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.19-01.35.15:828][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.19-01.35.15:828][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.19-01.35.15:828][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.19-01.35.15:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:828][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:830][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-01.35.15:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-01.35.15:831][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-01.35.15:831][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-01.35.15:831][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.19-01.35.15:834][  0]LogHAL: Display: Platform has ~ 8 GB [8396877824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.19-01.35.15:834][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.19-01.35.15:835][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.19-01.35.15:835][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.19-01.35.15:836][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.11.19-01.35.15:836][  0]LogInit: Computer: DESKTOP-7S0LTS5
+[2019.11.19-01.35.15:836][  0]LogInit: User: gmltk
+[2019.11.19-01.35.15:836][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.19-01.35.15:836][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.19-01.35.15:836][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.11.19-01.35.15:836][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.19-01.35.15:836][  0]LogMemory: Process Physical Memory: 100.14 MB used, 100.14 MB peak
+[2019.11.19-01.35.15:836][  0]LogMemory: Process Virtual Memory: 88.45 MB used, 88.45 MB peak
+[2019.11.19-01.35.15:836][  0]LogMemory: Physical Memory: 5715.10 MB used,  2292.79 MB free, 8007.89 MB total
+[2019.11.19-01.35.15:836][  0]LogMemory: Virtual Memory: 4656.31 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.19-01.35.15:840][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.19-01.35.15:864][  0]LogInit: Using OS detected language (en-US).
+[2019.11.19-01.35.15:864][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.19-01.35.15:865][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.19-01.35.16:074][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.19-01.35.16:160][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.19-01.35.16:161][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.19-01.35.16:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-01.35.16:394][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.19-01.35.16:430][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.11.19-01.35.16:430][  0]LogD3D11RHI:       128/0/4003 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.19-01.35.16:433][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.19-01.35.16:433][  0]LogD3D11RHI:       0/0/4003 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.19-01.35.16:433][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.19-01.35.16:439][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.19-01.35.16:440][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.19-01.35.16:440][  0]LogWindows: EnumDisplayDevices:
+[2019.11.19-01.35.16:440][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.11.19-01.35.16:440][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.11.19-01.35.16:441][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.11.19-01.35.16:441][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.19-01.35.16:441][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.11.19-01.35.16:441][  0]LogD3D11RHI:   Driver Version: 24.20.100.6344 (internal:24.20.100.6344, unified:24.20.100.6344)
+[2019.11.19-01.35.16:441][  0]LogD3D11RHI:      Driver Date: 9-14-2018
+[2019.11.19-01.35.16:441][  0]LogRHI: Texture pool is 1490 MB (70% of 2129 MB)
+[2019.11.19-01.35.16:480][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.11.19-01.35.16:480][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.19-01.35.16:487][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.11.19-01.35.17:000][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.19-01.35.17:022][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.19-01.35.17:045][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.19-01.35.17:067][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.19-01.35.17:086][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.19-01.35.17:103][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.19-01.35.17:116][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.19-01.35.17:131][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.19-01.35.17:138][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.19-01.35.17:182][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.19-01.35.17:184][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.19-01.35.17:205][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.19-01.35.17:205][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.19-01.35.17:222][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.19-01.35.17:222][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.19-01.35.17:230][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.19-01.35.17:238][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.19-01.35.17:246][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.19-01.35.17:255][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.19-01.35.17:284][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.19-01.35.17:284][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.19-01.35.17:284][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.19-01.35.17:294][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.19-01.35.17:355][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Intermediate/Shaders/WorkingDirectory/1392/).
+[2019.11.19-01.35.17:356][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gmltk/AppData/Local/Temp/UnrealShaderWorkingDir/1C369169448EFCD774AD768BC5A74878/'.
+[2019.11.19-01.35.17:360][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.19-01.35.17:360][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.19-01.35.17:360][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.19-01.35.18:244][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/gmltk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gmltk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-01.35.18:308][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.19-01.35.18:322][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.19-01.35.18:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.19-01.35.18:322][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.19-01.35.18:323][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gmltk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.19-01.35.18:323][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.19-01.35.18:323][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.19-01.35.18:354][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.19-01.35.18:356][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.19-01.35.18:357][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.19-01.35.18:424][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.11.19-01.35.18:842][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.19-01.35.19:112][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.19-01.35.19:112][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.19-01.35.19:112][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.19-01.35.19:112][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.19-01.35.19:112][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.19-01.35.19:124][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3055071226)
+[2019.11.19-01.35.19:688][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.085269 seconds
+[2019.11.19-01.35.19:697][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.19-01.35.19:697][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.19-01.35.19:697][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.19-01.35.20:820][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.19-01.35.20:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.19-01.35.20:892][  0]SourceControl: Source control is disabled
+[2019.11.19-01.35.20:892][  0]SourceControl: Source control is disabled
+[2019.11.19-01.35.20:893][  0]SourceControl: Source control is disabled
+[2019.11.19-01.35.20:895][  0]SourceControl: Source control is disabled
+[2019.11.19-01.35.21:047][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.19-01.35.21:234][  0]LogOcInput: OculusInput pre-init called
+[2019.11.19-01.35.21:257][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.19-01.35.21:257][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.19-01.35.21:367][  0]LogEngine: Initializing Engine...
+[2019.11.19-01.35.21:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.19-01.35.21:370][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.19-01.35.21:843][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.19-01.35.21:869][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.19-01.35.21:882][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.19-01.35.21:911][  0]LogInit: FAudioDevice initialized.
+[2019.11.19-01.35.21:911][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.19-01.35.22:061][  0]LogDerivedDataCache: Saved boot cache 0.15s 73MB C:/Users/gmltk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.19-01.35.22:092][  0]LogInit: Texture streaming: Enabled
+[2019.11.19-01.35.22:137][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.19-01.35.22:275][  0]LogInit: Transaction tracking system initialized
+[2019.11.19-01.35.22:349][  0]BlueprintLog: New page: Editor Load
+[2019.11.19-01.35.22:470][  0]LocalizationService: Localization service is disabled
+[2019.11.19-01.35.23:005][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/' took 0.01s
+[2019.11.19-01.35.23:005][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.19-01.35.23:005][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.19-01.35.23:256][  0]SourceControl: Source control is disabled
+[2019.11.19-01.35.23:256][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.19-01.35.23:256][  0]LightingResults: New page: Lighting Build
+[2019.11.19-01.35.23:259][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.35.23:260][  0]MapCheck: New page: Map Check
+[2019.11.19-01.35.23:260][  0]LightingResults: New page: Lighting Build
+[2019.11.19-01.35.23:289][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.19-01.35.23:377][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.19-01.35.23:383][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.19-01.35.23:413][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.19-01.35.23:413][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.19-01.35.23:414][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2019.11.19-01.35.23:414][  0]LogFileHelpers: Loading map 'Template_Default' took 0.158
+[2019.11.19-01.35.23:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.35.23:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.35.23:662][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.35.23:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.19-01.35.23:687][  0]LogCollectionManager: Loaded 0 collections in 0.002592 seconds
+[2019.11.19-01.35.23:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Collections/' took 0.00s
+[2019.11.19-01.35.23:709][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Developers/gmltk/Collections/' took 0.00s
+[2019.11.19-01.35.23:709][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Collections/' took 0.00s
+[2019.11.19-01.35.23:709][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.19-01.35.23:721][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2863 classes and 680 folders.
+[2019.11.19-01.35.23:739][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.35.24:323][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.35.24:343][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.11.19-01.35.24:406][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.19-01.35.24:412][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.19-01.35.24:437][  0]LogSlate: Took 0.010673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.19-01.35.24:651][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.11.19-01.35.24:849][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.19-01.35.24:849][  0]LogLoad: (Engine Initialization) Total time: 10.27 seconds
+[2019.11.19-01.35.24:849][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.19-01.35.24:901][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.19-01.35.24:939][  0]LogSlate: Took 0.006781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.35.27:195][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.35.29:874][148]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.11.19-01.35.30:557][167]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.19-01.35.30:727][167]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.11.19-01.35.30:729][167]LogMaterial: Warning: C:\Users\gmltk\OneDrive\Desktop\Crossy_Road\CrossyRoad 4.23\Content\Assets\Characters\palette.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.19-01.35.30:729][167]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.19-01.35.30:747][167]LogAIModule: Creating AISystem for world SampleScene
+[2019.11.19-01.35.30:757][167]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/Maps/SampleScene.SampleScene
+[2019.11.19-01.35.30:791][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.19-01.35.30:792][167]Cmd: MAP LOAD FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Maps/SampleScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.19-01.35.30:792][167]LightingResults: New page: Lighting Build
+[2019.11.19-01.35.30:793][167]LoadErrors: New page: Loading map: SampleScene.umap
+[2019.11.19-01.35.30:793][167]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.19-01.35.30:794][167]MapCheck: New page: Map Check
+[2019.11.19-01.35.30:794][167]LightingResults: New page: Lighting Build
+[2019.11.19-01.35.30:825][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.19-01.35.30:835][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.19-01.35.30:865][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.19-01.35.30:894][167]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.19-01.35.30:895][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2019.11.19-01.35.30:895][167]LogFileHelpers: Loading map 'SampleScene' took 0.104
+[2019.11.19-01.35.39:761][389]LogAssetRegistry: Asset discovery search completed in 21.3379 seconds
+[2019.11.19-01.35.39:787][389]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2019.11.19-01.35.49:858][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.36.25:080][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/grass1.obj)
+[2019.11.19-01.36.25:118][ 84]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/grass1.obj
+[2019.11.19-01.36.25:130][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.36.28:988][ 84]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.36.29:257][ 84]LogStaticMesh: Building static mesh grass1...
+[2019.11.19-01.36.29:265][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Characters/grass1.grass1
+[2019.11.19-01.36.29:267][ 84]LogStaticMesh: Warning: grass1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.36.29:267][ 84]LogStaticMesh: Warning: grass1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.36.29:280][ 84]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.36.29:280][ 84]FBXImport: Warning: grass1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.36.29:280][ 84]FBXImport: Warning: grass1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.36.31:364][127]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.36.31:382][127]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.36.41:155][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.19-01.36.41:316][205]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/SampleScene4AD483DE4BCE9CD513BD63ACB32B1ABD.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Maps/SampleScene.umap'
+[2019.11.19-01.37.10:219][317]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/grass2.obj)
+[2019.11.19-01.37.10:233][317]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/grass2.obj
+[2019.11.19-01.37.10:239][317]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.11:788][317]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.37.11:826][317]LogStaticMesh: Building static mesh grass2...
+[2019.11.19-01.37.11:827][317]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/grass2.grass2
+[2019.11.19-01.37.11:827][317]LogStaticMesh: Warning: grass2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.11:827][317]LogStaticMesh: Warning: grass2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.11:840][317]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.11:840][317]FBXImport: Warning: grass2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.11:840][317]FBXImport: Warning: grass2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.15:111][384]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.15:121][384]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.19:912][404]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/grass3.obj)
+[2019.11.19-01.37.19:931][404]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/grass3.obj
+[2019.11.19-01.37.19:936][404]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.22:373][404]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.37.22:408][404]LogStaticMesh: Building static mesh grass3...
+[2019.11.19-01.37.22:408][404]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/grass3.grass3
+[2019.11.19-01.37.22:409][404]LogStaticMesh: Warning: grass3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.22:409][404]LogStaticMesh: Warning: grass3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.22:421][404]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.22:421][404]FBXImport: Warning: grass3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.22:421][404]FBXImport: Warning: grass3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.24:195][438]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.24:210][438]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.35:298][452]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/road.obj)
+[2019.11.19-01.37.35:310][452]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/road.obj
+[2019.11.19-01.37.35:316][452]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.36:711][452]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.37.36:750][452]LogStaticMesh: Building static mesh road...
+[2019.11.19-01.37.36:750][452]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/road.road
+[2019.11.19-01.37.36:751][452]LogStaticMesh: Warning: road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.36:751][452]LogStaticMesh: Warning: road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.36:762][452]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.36:762][452]FBXImport: Warning: road has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.36:762][452]FBXImport: Warning: road has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.36:794][452]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/RR_light.obj)
+[2019.11.19-01.37.36:806][452]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/RR_light.obj
+[2019.11.19-01.37.36:815][452]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.36:821][452]LogStaticMesh: Building static mesh RR_light...
+[2019.11.19-01.37.36:823][452]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/RR_light.RR_light
+[2019.11.19-01.37.36:823][452]LogStaticMesh: Warning: RR_light has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.36:823][452]LogStaticMesh: Warning: RR_light has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.36:836][452]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.36:836][452]FBXImport: Warning: RR_light has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.36:836][452]FBXImport: Warning: RR_light has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.36:852][452]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track.obj)
+[2019.11.19-01.37.36:863][452]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track.obj
+[2019.11.19-01.37.36:871][452]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.36:883][452]LogStaticMesh: Building static mesh RR_track...
+[2019.11.19-01.37.36:887][452]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/RR_track.RR_track
+[2019.11.19-01.37.36:887][452]LogStaticMesh: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.36:887][452]LogStaticMesh: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.36:906][452]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.36:906][452]FBXImport: Warning: RR_track has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.36:906][452]FBXImport: Warning: RR_track has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.36:925][452]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/water.obj)
+[2019.11.19-01.37.36:947][452]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/water.obj
+[2019.11.19-01.37.36:958][452]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.37.36:967][452]LogStaticMesh: Building static mesh water...
+[2019.11.19-01.37.36:968][452]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/water.water
+[2019.11.19-01.37.36:968][452]LogStaticMesh: Warning: water has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.37.36:968][452]LogStaticMesh: Warning: water has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.37.36:991][452]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.37.36:991][452]FBXImport: Warning: water has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.37.36:991][452]FBXImport: Warning: water has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.37.38:892][491]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.38:909][491]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.37.41:139][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.19-01.37.41:195][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/grass1" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass1.uasset" SILENT=true
+[2019.11.19-01.37.41:220][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/grass1850059C0444388F00EB2F2B6DB0171EA.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass1.uasset'
+[2019.11.19-01.37.41:267][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/grass2" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass2.uasset" SILENT=true
+[2019.11.19-01.37.41:294][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/grass20896E2014F3C0B9B55A48CA6580B1698.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass2.uasset'
+[2019.11.19-01.37.41:342][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/grass3" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass3.uasset" SILENT=true
+[2019.11.19-01.37.41:366][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/grass32F9AD6EF420E837EB48EB283480EDC63.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/grass3.uasset'
+[2019.11.19-01.37.41:412][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/road" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/road.uasset" SILENT=true
+[2019.11.19-01.37.41:438][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/road6883A2E941CD30548F861DB23D8E5F9E.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/road.uasset'
+[2019.11.19-01.37.41:492][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/RR_light" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/RR_light.uasset" SILENT=true
+[2019.11.19-01.37.41:519][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/RR_light3C69660A4457649D4A825FB01E360E79.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/RR_light.uasset'
+[2019.11.19-01.37.41:571][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/RR_track" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/RR_track.uasset" SILENT=true
+[2019.11.19-01.37.41:595][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/RR_track5875BA1F46861B57168E0686073C55FE.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/RR_track.uasset'
+[2019.11.19-01.37.41:648][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/water" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/water.uasset" SILENT=true
+[2019.11.19-01.37.41:674][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/waterC0E51E7F4CC6AE473D0F39829541BF61.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/water.uasset'
+[2019.11.19-01.39.16:845][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.19-01.39.17:882][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.39.18:894][971]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-01.39.23:059][ 91]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.19-01.39.24:992][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.39.27:087][264]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.19-01.39.27:221][264]EditorErrors: Warning: No assets to check in!
+[2019.11.19-01.39.29:696][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.39.29:849][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.19-01.39.33:236][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.19-01.39.33:388][469]EditorErrors: Warning: No assets to check in!
+[2019.11.19-01.53.51:379][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.11.19-01.53.52:639][178]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-01.53.52:827][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.19-01.53.52:859][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.19-01.53.52:885][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.19-01.53.53:095][178]SourceControl: Error: Updated 0 paths from the index
+[2019.11.19-01.53.53:252][178]SourceControl: rm 'CrossyRoad 4.23/Content/Assets/Characters/RR_track.uasset'
+[2019.11.19-01.54.23:297][181]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track_1.obj)
+[2019.11.19-01.54.23:308][181]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track_1.obj
+[2019.11.19-01.54.23:312][181]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.54.24:845][181]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.54.24:905][181]LogStaticMesh: Building static mesh RR_track_1...
+[2019.11.19-01.54.24:908][181]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/RR_track_1.RR_track_1
+[2019.11.19-01.54.24:909][181]LogStaticMesh: Warning: RR_track_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.54.24:909][181]LogStaticMesh: Warning: RR_track_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: RR_track_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: RR_track_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.54.28:292][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.19-01.54.28:293][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/SampleScene' took 0.034
+[2019.11.19-01.54.28:295][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/RR_track_1] ([1] browsable assets)...
+[2019.11.19-01.54.28:330][240]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Characters/RR_track_1.RR_track_1]
+[2019.11.19-01.54.28:330][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/RR_track_1]
+[2019.11.19-01.54.28:361][240]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/RR_track_1_Auto12030E02A43D4D0B1B507218DE50C4788.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Assets/Characters/RR_track_1_Auto1.uasset'
+[2019.11.19-01.54.28:364][240]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.11.19-01.54.30:382][285]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.54.30:400][285]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.54.32:472][311]LogActorFactory: Actor Factory created RR_track_1
+[2019.11.19-01.54.33:229][322]LogActorFactory: Actor Factory created RR_track_1
+[2019.11.19-01.54.36:696][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.54.49:776][689]LogSlate: FSceneViewport::OnFocusLost() reason 5
+>>>>>>> master
