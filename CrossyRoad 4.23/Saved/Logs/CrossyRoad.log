@@ -659,3 +659,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.19-01.37.41:595][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/RR_track5875BA1F46861B57168E0686073C55FE.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/RR_track.uasset'
 [2019.11.19-01.37.41:648][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/water" FILE="../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/water.uasset" SILENT=true
 [2019.11.19-01.37.41:674][588]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/waterC0E51E7F4CC6AE473D0F39829541BF61.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Content/Assets/Characters/water.uasset'
+[2019.11.19-01.39.16:845][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.19-01.39.17:882][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.39.18:894][971]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.19-01.39.23:059][ 91]LogSlate: Window 'Source Control Login' being destroyed
+[2019.11.19-01.39.24:992][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.19-01.39.27:087][264]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.19-01.39.27:221][264]EditorErrors: Warning: No assets to check in!
+[2019.11.19-01.39.29:696][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.39.29:849][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.19-01.39.33:236][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.11.19-01.39.33:388][469]EditorErrors: Warning: No assets to check in!
+[2019.11.19-01.53.51:379][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.11.19-01.53.52:639][178]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.19-01.53.52:827][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.19-01.53.52:859][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.19-01.53.52:885][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.19-01.53.53:095][178]SourceControl: Error: Updated 0 paths from the index
+[2019.11.19-01.53.53:252][178]SourceControl: rm 'CrossyRoad 4.23/Content/Assets/Characters/RR_track.uasset'
+[2019.11.19-01.54.23:297][181]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track_1.obj)
+[2019.11.19-01.54.23:308][181]LogFbx: Loading FBX Scene from ../../../../../../Users/gmltk/OneDrive/Desktop/RR_track_1.obj
+[2019.11.19-01.54.23:312][181]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.19-01.54.24:845][181]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.19-01.54.24:905][181]LogStaticMesh: Building static mesh RR_track_1...
+[2019.11.19-01.54.24:908][181]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Characters/RR_track_1.RR_track_1
+[2019.11.19-01.54.24:909][181]LogStaticMesh: Warning: RR_track_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.19-01.54.24:909][181]LogStaticMesh: Warning: RR_track_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: RR_track_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.19-01.54.24:927][181]FBXImport: Warning: RR_track_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.19-01.54.28:292][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.11.19-01.54.28:293][240]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/SampleScene' took 0.034
+[2019.11.19-01.54.28:295][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/RR_track_1] ([1] browsable assets)...
+[2019.11.19-01.54.28:330][240]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Characters/RR_track_1.RR_track_1]
+[2019.11.19-01.54.28:330][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/RR_track_1]
+[2019.11.19-01.54.28:361][240]LogSavePackage: Moving '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/RR_track_1_Auto12030E02A43D4D0B1B507218DE50C4788.tmp' to '../../../../../../Users/gmltk/OneDrive/Desktop/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Assets/Characters/RR_track_1_Auto1.uasset'
+[2019.11.19-01.54.28:364][240]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.11.19-01.54.30:382][285]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.54.30:400][285]LogSlate: Window 'Message Log' being destroyed
+[2019.11.19-01.54.32:472][311]LogActorFactory: Actor Factory created RR_track_1
+[2019.11.19-01.54.33:229][322]LogActorFactory: Actor Factory created RR_track_1
+[2019.11.19-01.54.36:696][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.19-01.54.49:776][689]LogSlate: FSceneViewport::OnFocusLost() reason 5
