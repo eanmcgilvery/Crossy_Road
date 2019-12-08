@@ -1,0 +1,1458 @@
+﻿Log file open, 12/08/19 12:17:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060393
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:958][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:962][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-20.17.09:962][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-20.17.09:963][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-20.17.09:963][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-20.17.09:963][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.08-20.17.09:968][  0]LogHAL: Display: Platform has ~ 8 GB [8493694976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.08-20.17.09:968][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.08-20.17.09:968][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-20.17.09:968][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-20.17.09:969][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-20.17.09:970][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-20.17.09:971][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.08-20.17.09:972][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.08-20.17.09:972][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.08-20.17.09:972][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Config/Windows/Engine.ini]
+[2019.12.08-20.17.09:972][  0]LogInit: Computer: BRADLEYPC
+[2019.12.08-20.17.09:972][  0]LogInit: User: Bradley
+[2019.12.08-20.17.09:972][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.08-20.17.09:972][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.08-20.17.09:972][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.08-20.17.09:972][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-20.17.09:972][  0]LogMemory: Process Physical Memory: 101.67 MB used, 101.67 MB peak
+[2019.12.08-20.17.09:972][  0]LogMemory: Process Virtual Memory: 99.12 MB used, 99.12 MB peak
+[2019.12.08-20.17.09:973][  0]LogMemory: Physical Memory: 5485.33 MB used,  2614.89 MB free, 8100.22 MB total
+[2019.12.08-20.17.09:973][  0]LogMemory: Virtual Memory: 4681.39 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.08-20.17.09:981][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.08-20.17.10:029][  0]LogInit: Using OS detected language (en-US).
+[2019.12.08-20.17.10:029][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.08-20.17.10:031][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.08-20.17.10:285][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.08-20.17.10:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.08-20.17.10:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.08-20.17.10:445][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.12.08-20.17.10:445][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.08-20.17.10:517][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.12.08-20.17.10:517][  0]LogD3D11RHI:       6052/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.08-20.17.10:519][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.08-20.17.10:519][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.08-20.17.10:519][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.08-20.17.10:527][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.08-20.17.10:527][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.08-20.17.10:527][  0]LogWindows: EnumDisplayDevices:
+[2019.12.08-20.17.10:527][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.12.08-20.17.10:527][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.08-20.17.10:527][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.08-20.17.10:528][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.08-20.17.10:528][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.08-20.17.10:528][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.12.08-20.17.10:528][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.08-20.17.10:528][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.08-20.17.10:528][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.08-20.17.10:576][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.08-20.17.10:592][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.08-20.17.11:139][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.08-20.17.11:147][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.08-20.17.11:154][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.08-20.17.11:161][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.08-20.17.11:169][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.08-20.17.11:176][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.08-20.17.11:183][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.08-20.17.11:190][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.08-20.17.11:193][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.08-20.17.11:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.08-20.17.11:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.08-20.17.11:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.08-20.17.11:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.08-20.17.11:224][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.08-20.17.11:239][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.08-20.17.11:239][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.08-20.17.11:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.08-20.17.11:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.08-20.17.11:257][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.08-20.17.11:263][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.08-20.17.11:269][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.08-20.17.11:275][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.08-20.17.11:296][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.08-20.17.11:297][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.08-20.17.11:297][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.08-20.17.11:304][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.08-20.17.11:342][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Intermediate/Shaders/WorkingDirectory/15836/).
+[2019.12.08-20.17.11:342][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bradley/AppData/Local/Temp/UnrealShaderWorkingDir/62D03A4A4FCD38F906F5B6B5D0661C32/'.
+[2019.12.08-20.17.11:344][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.08-20.17.11:344][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.08-20.17.11:344][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.08-20.17.11:950][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/Bradley/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bradley/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-20.17.12:020][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.08-20.17.12:031][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.08-20.17.12:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-20.17.12:031][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.08-20.17.12:033][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bradley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.08-20.17.12:033][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.08-20.17.12:033][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.08-20.17.12:053][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.08-20.17.12:056][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.08-20.17.12:056][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.08-20.17.12:106][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.12.08-20.17.12:392][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-20.17.12:584][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.08-20.17.12:584][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.08-20.17.12:584][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.08-20.17.12:584][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.08-20.17.12:584][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.08-20.17.12:605][  0]LogNetVersion: CrossyRoad 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3055071226)
+[2019.12.08-20.17.13:198][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051488 seconds
+[2019.12.08-20.17.13:206][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.08-20.17.13:206][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.08-20.17.13:206][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.08-20.17.53:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.08-20.17.53:425][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.08-20.17.53:498][  0]SourceControl: Source control is disabled
+[2019.12.08-20.17.53:498][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:498][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:499][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.12.08-20.17.53:500][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:500][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:501][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:502][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.12.08-20.17.53:503][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:503][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:504][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.12.08-20.17.53:505][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.53:505][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.12.08-20.17.54:101][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.08-20.17.54:371][  0]LogOcInput: OculusInput pre-init called
+[2019.12.08-20.17.54:381][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.08-20.17.54:381][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.08-20.17.54:722][  0]LogEngine: Initializing Engine...
+[2019.12.08-20.17.54:726][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.12.08-20.17.54:728][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.08-20.17.54:993][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.08-20.17.55:066][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.08-20.17.55:097][  0]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.17.55:112][  0]LogInit: FAudioDevice initialized.
+[2019.12.08-20.17.55:113][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.08-20.17.56:691][  0]LogDerivedDataCache: Saved boot cache 1.58s 73MB C:/Users/Bradley/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-20.17.56:715][  0]LogInit: Texture streaming: Enabled
+[2019.12.08-20.17.56:736][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.08-20.17.56:736][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.08-20.17.56:737][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.08-20.17.56:795][  0]LogInit: Transaction tracking system initialized
+[2019.12.08-20.17.56:829][  0]BlueprintLog: New page: Editor Load
+[2019.12.08-20.17.57:149][  0]LocalizationService: Localization service is disabled
+[2019.12.08-20.17.57:702][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/' took 0.03s
+[2019.12.08-20.17.57:702][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.08-20.17.57:703][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.08-20.17.59:839][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:839][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.12.08-20.17.59:840][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:840][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.12.08-20.17.59:840][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:840][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.12.08-20.17.59:841][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:841][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.12.08-20.17.59:842][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:842][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.12.08-20.17.59:842][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:842][  0]LogWindows: Warning: URL: C:\Users\Bradley\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.12.08-20.17.59:843][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.12.08-20.17.59:843][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.12.08-20.17.59:843][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-20.17.59:844][  0]LightingResults: New page: Lighting Build
+[2019.12.08-20.17.59:847][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.17.59:848][  0]MapCheck: New page: Map Check
+[2019.12.08-20.17.59:848][  0]LightingResults: New page: Lighting Build
+[2019.12.08-20.17.59:876][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.08-20.17.59:938][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.08-20.17.59:943][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-20.17.59:967][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.12.08-20.17.59:967][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-20.17.59:967][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.12.08-20.17.59:967][  0]LogFileHelpers: Loading map 'Template_Default' took 0.124
+[2019.12.08-20.18.01:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.18.01:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.18.01:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.18.01:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.18.01:883][  0]LogCollectionManager: Loaded 0 collections in 0.004330 seconds
+[2019.12.08-20.18.02:010][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Collections/' took 0.00s
+[2019.12.08-20.18.02:010][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Developers/Bradley/Collections/' took 0.00s
+[2019.12.08-20.18.02:010][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Collections/' took 0.00s
+[2019.12.08-20.18.02:010][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2019.12.08-20.18.02:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2863 classes and 680 folders.
+[2019.12.08-20.18.02:236][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.08-20.18.05:433][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.08-20.18.05:517][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.08-20.18.07:163][  0]LogSlate: Took 0.025249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.08-20.18.07:314][  0]LogSlate: Took 0.121391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.08-20.18.07:435][  0]LogSlate: Took 0.050307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.08-20.18.07:890][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-20.18.08:924][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.08-20.18.08:924][  0]LogLoad: (Engine Initialization) Total time: 60.36 seconds
+[2019.12.08-20.18.08:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.08-20.18.09:017][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.08-20.18.19:283][160]LogSlate: Took 0.041990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-20.18.23:099][611]LogAssetRegistry: Asset discovery search completed in 70.9932 seconds
+[2019.12.08-20.18.23:128][611]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.08-20.18.23:128][611]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.12.08-20.19.25:981][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.19.29:200][473]LogSlate: Took 0.034264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-20.19.29:415][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:416][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:419][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:419][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:421][473]LogLinker: Warning: Failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:422][473]LogLinker: Warning: Failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:422][473]LogLinker: Warning: Failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:422][473]LogLinker: Warning: Failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:529][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:545][473]LoadErrors: Failed to load /Game/Maps/Ean_Test_BuiltData.Ean_Test_BuiltData Referenced by PersistentLevel
+[2019.12.08-20.19.29:545][473]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap' failed to load '/Game/Maps/Ean_Test_BuiltData': Can't find file.
+[2019.12.08-20.19.29:574][473]LogStaticMesh: Building static mesh Car...
+[2019.12.08-20.19.29:794][473]LogTexture: Display: Building textures: chicken2 (BGRA8, 256X1)
+[2019.12.08-20.19.29:795][473]LogStaticMesh: Built static mesh [0.24s] /Game/Meshes/Car.Car
+[2019.12.08-20.19.29:910][473]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.08-20.19.30:582][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.08-20.19.30:582][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.08-20.19.30:582][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.08-20.19.30:582][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.08-20.19.30:582][473]LogStaticMesh: Building static mesh Taxi...
+[2019.12.08-20.19.30:591][473]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Taxi.Taxi
+[2019.12.08-20.19.30:597][473]LogAIModule: Creating AISystem for world Ean_Test
+[2019.12.08-20.19.30:712][473]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Ean_Test.Ean_Test
+[2019.12.08-20.19.30:792][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.08-20.19.30:793][473]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Ean_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-20.19.30:793][473]LightingResults: New page: Lighting Build
+[2019.12.08-20.19.30:793][473]LoadErrors: New page: Loading map: Ean_Test.umap
+[2019.12.08-20.19.30:793][473]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.19.30:824][473]MapCheck: New page: Map Check
+[2019.12.08-20.19.30:824][473]LightingResults: New page: Lighting Build
+[2019.12.08-20.19.30:853][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.08-20.19.31:329][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-20.19.31:366][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.08-20.19.31:626][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-20.19.31:633][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.88ms to complete.
+[2019.12.08-20.19.31:633][473]LogFileHelpers: Loading map 'Ean_Test' took 0.841
+[2019.12.08-20.19.34:483][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.19.34:694][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.19.34:756][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.19.34:814][729]PIE: New page: PIE session: Ean_Test (Dec 8, 2019, 4:19:34 AM)
+[2019.12.08-20.19.34:913][729]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.08-20.19.35:000][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ean_Test
+[2019.12.08-20.19.35:085][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085412s)
+[2019.12.08-20.19.35:098][729]LogAIModule: Creating AISystem for world Ean_Test
+[2019.12.08-20.19.35:172][729]LogPlayLevel: PIE: World Init took: (0.086458s)
+[2019.12.08-20.19.35:172][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ean_Test.Ean_Test to /Game/Maps/UEDPIE_0_Ean_Test.Ean_Test (0.172533s)
+[2019.12.08-20.19.35:197][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.08-20.19.35:280][729]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.19.35:306][729]LogInit: FAudioDevice initialized.
+[2019.12.08-20.19.35:489][729]LogLoad: Game class is 'GameModeBase'
+[2019.12.08-20.19.35:648][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ean_Test.Ean_Test up for play (max tick rate 0) at 2019.12.08-12.19.35
+[2019.12.08-20.19.35:808][729]LogWorld: Bringing up level for play took: 0.162170
+[2019.12.08-20.19.35:810][729]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.08-20.19.36:046][729]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.08-20.19.36:122][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ean_Test 2.49
+[2019.12.08-20.19.36:122][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.19.54:160][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.19.54:261][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.19.54:262][787]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Ean_Test
+[2019.12.08-20.19.54:262][787]LogWorld: UWorld::CleanupWorld for Ean_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.19.54:331][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.19.54:331][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.19.54:487][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.19.54:500][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.08-20.19.54:703][788]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.08-20.20.00:390][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.20.08:690][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.20.11:499][572]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.20.13:014][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.20.14:218][892]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (carTrigger)
+[2019.12.08-20.20.43:206][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.20.43:358][313]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_RedCar.BP_RedCar
+[2019.12.08-20.20.45:008][313]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 121 classes and 0 folders.
+[2019.12.08-20.20.50:454][313]LogSlate: Took 0.033116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.08-20.21.10:165][237]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-20.21.14:658][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.21.14:744][630]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.21.14:760][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.21.14:760][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.21.14:760][630]PIE: New page: PIE session: Ean_Test (Dec 8, 2019, 4:21:14 AM)
+[2019.12.08-20.21.14:760][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ean_Test
+[2019.12.08-20.21.14:764][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003496s)
+[2019.12.08-20.21.14:765][630]LogAIModule: Creating AISystem for world Ean_Test
+[2019.12.08-20.21.14:765][630]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2019.12.08-20.21.14:765][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ean_Test.Ean_Test to /Game/Maps/UEDPIE_0_Ean_Test.Ean_Test (0.004820s)
+[2019.12.08-20.21.15:030][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.12.08-20.21.15:102][630]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.21.15:122][630]LogInit: FAudioDevice initialized.
+[2019.12.08-20.21.15:165][630]LogLoad: Game class is 'GameModeBase'
+[2019.12.08-20.21.15:167][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ean_Test.Ean_Test up for play (max tick rate 0) at 2019.12.08-12.21.15
+[2019.12.08-20.21.15:167][630]LogWorld: Bringing up level for play took: 0.001194
+[2019.12.08-20.21.15:167][630]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.08-20.21.15:171][630]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ean_Test -0.461
+[2019.12.08-20.21.15:171][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.21.17:759][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.21.17:759][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.21.17:759][860]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Ean_Test
+[2019.12.08-20.21.17:760][860]LogWorld: UWorld::CleanupWorld for Ean_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.21.17:771][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.21.17:771][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test' with GeneratedClass '/Game/Maps/Ean_Test.Ean_Test_C' with ClassGeneratedBy '/Game/Maps/Ean_Test.Ean_Test:PersistentLevel.Ean_Test'
+[2019.12.08-20.21.17:803][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.21.17:807][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.08-20.21.17:877][861]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.08-20.21.30:322][137]LogSlate: Window 'BP_RedCar' being destroyed
+[2019.12.08-20.21.30:328][137]LogSlate: Window 'BP_RedCar' being destroyed
+[2019.12.08-20.21.30:357][137]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.21.31:833][291]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_YellowCar.BP_YellowCar
+[2019.12.08-20.21.37:057][812]LogSlate: Window 'BP_YellowCar' being destroyed
+[2019.12.08-20.21.37:062][812]LogSlate: Window 'BP_YellowCar' being destroyed
+[2019.12.08-20.21.37:078][812]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.21.42:539][448]LogEditorViewport: Clicking on Actor (LMB): BP_YellowCar_C (BP_YellowCar)
+[2019.12.08-20.21.48:365][128]LogEditorViewport: Clicking on Actor (LMB): BP_RedCar_C (BP_RedCar)
+[2019.12.08-20.21.51:326][472]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.21.52:621][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.21.53:143][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.08-20.22.04:558][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.22.04:945][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.04:946][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.04:947][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.04:947][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.05:341][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.05:342][ 47]LoadErrors: Failed to load /Game/Assets/Characters/chicken1_Mat.chicken1_Mat Referenced by chicken
+[2019.12.08-20.22.05:342][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.05:342][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.05:343][ 47]LogLinker: Warning: While loading 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Meshes/chicken.uasset' failed to load '/Game/Assets/Characters/chicken1_Mat': Can't find file.
+[2019.12.08-20.22.05:561][ 47]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.12.08-20.22.05:590][ 47]LogMaterial: Warning: C:\Users\Bradley\Documents\Unreal Projects\Crossy_Roads\Crossy_Road\CrossyRoad 4.23\Content\Materials\palette.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.08-20.22.05:590][ 47]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.08-20.22.05:732][ 47]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-20.22.06:471][ 48]LogSlate: Took 0.054511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.08-20.22.10:193][369]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.22.10:199][369]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.22.10:206][369]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.22.16:795][126]LogStaticMesh: Building static mesh grass2...
+[2019.12.08-20.22.16:795][126]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/grass2.grass2
+[2019.12.08-20.22.16:810][126]LogStaticMesh: Building static mesh road...
+[2019.12.08-20.22.16:811][126]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/road.road
+[2019.12.08-20.22.16:812][126]LogStaticMesh: Building static mesh RR_light...
+[2019.12.08-20.22.16:813][126]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/RR_light.RR_light
+[2019.12.08-20.22.16:814][126]LogStaticMesh: Building static mesh RR_track...
+[2019.12.08-20.22.16:815][126]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/RR_track.RR_track
+[2019.12.08-20.22.16:816][126]LogStaticMesh: Building static mesh water...
+[2019.12.08-20.22.16:816][126]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/water.water
+[2019.12.08-20.22.16:818][126]LogAIModule: Creating AISystem for world Map2
+[2019.12.08-20.22.16:826][126]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Map2.Map2
+[2019.12.08-20.22.16:890][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.08-20.22.16:891][126]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-20.22.16:891][126]LightingResults: New page: Lighting Build
+[2019.12.08-20.22.16:892][126]LoadErrors: New page: Loading map: Map2.umap
+[2019.12.08-20.22.16:892][126]LogWorld: UWorld::CleanupWorld for Ean_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.22.16:892][126]MapCheck: New page: Map Check
+[2019.12.08-20.22.16:893][126]LightingResults: New page: Lighting Build
+[2019.12.08-20.22.16:922][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.08-20.22.16:999][126]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-20.22.17:031][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.12.08-20.22.17:063][126]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-20.22.17:063][126]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.12.08-20.22.17:063][126]LogFileHelpers: Loading map 'Map2' took 0.173
+[2019.12.08-20.22.20:073][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.22.20:165][479]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.22.20:184][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map2.Map2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map2.Map2:PersistentLevel.Map2' with GeneratedClass '/Game/Maps/Map2.Map2_C' with ClassGeneratedBy '/Game/Maps/Map2.Map2:PersistentLevel.Map2'
+[2019.12.08-20.22.20:184][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.22.20:184][479]PIE: New page: PIE session: Map2 (Dec 8, 2019, 4:22:20 AM)
+[2019.12.08-20.22.20:184][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map2
+[2019.12.08-20.22.20:188][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004342s)
+[2019.12.08-20.22.20:190][479]LogAIModule: Creating AISystem for world Map2
+[2019.12.08-20.22.20:190][479]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2019.12.08-20.22.20:190][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map2.Map2 to /Game/Maps/UEDPIE_0_Map2.Map2 (0.005983s)
+[2019.12.08-20.22.20:221][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.12.08-20.22.20:247][479]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.22.20:266][479]LogInit: FAudioDevice initialized.
+[2019.12.08-20.22.20:272][479]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.22.20:274][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map2.Map2 up for play (max tick rate 0) at 2019.12.08-12.22.20
+[2019.12.08-20.22.20:274][479]LogWorld: Bringing up level for play took: 0.001175
+[2019.12.08-20.22.20:274][479]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.08-20.22.20:390][479]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map2 0.759
+[2019.12.08-20.22.20:391][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map2.Map2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map2.Map2:PersistentLevel.Map2' with GeneratedClass '/Game/Maps/Map2.Map2_C' with ClassGeneratedBy '/Game/Maps/Map2.Map2:PersistentLevel.Map2'
+[2019.12.08-20.22.37:356][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map2.Map2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map2.Map2:PersistentLevel.Map2' with GeneratedClass '/Game/Maps/Map2.Map2_C' with ClassGeneratedBy '/Game/Maps/Map2.Map2:PersistentLevel.Map2'
+[2019.12.08-20.22.37:356][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.22.37:356][402]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map2
+[2019.12.08-20.22.37:356][402]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.22.37:398][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.22.37:398][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map2.Map2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map2.Map2:PersistentLevel.Map2' with GeneratedClass '/Game/Maps/Map2.Map2_C' with ClassGeneratedBy '/Game/Maps/Map2.Map2:PersistentLevel.Map2'
+[2019.12.08-20.22.37:433][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.22.37:437][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.08-20.22.37:478][404]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.08-20.22.39:311][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.22.39:465][636]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.22.39:470][636]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Bradley_Test_Map.Bradley_Test_Map
+[2019.12.08-20.22.39:498][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.08-20.22.39:499][636]Cmd: MAP LOAD FILE="C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Maps/Bradley_Test_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-20.22.39:499][636]LightingResults: New page: Lighting Build
+[2019.12.08-20.22.39:500][636]LoadErrors: New page: Loading map: Bradley_Test_Map.umap
+[2019.12.08-20.22.39:500][636]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.22.39:500][636]MapCheck: New page: Map Check
+[2019.12.08-20.22.39:500][636]LightingResults: New page: Lighting Build
+[2019.12.08-20.22.39:527][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.08-20.22.39:602][636]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-20.22.39:633][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.08-20.22.39:663][636]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-20.22.39:663][636]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2019.12.08-20.22.39:663][636]LogFileHelpers: Loading map 'Bradley_Test_Map' took 0.165
+[2019.12.08-20.22.41:188][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.22.41:205][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.41:205][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.22.41:205][809]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:22:41 AM)
+[2019.12.08-20.22.41:205][809]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.22.41:207][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002313s)
+[2019.12.08-20.22.41:208][809]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.22.41:209][809]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2019.12.08-20.22.41:209][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003585s)
+[2019.12.08-20.22.41:238][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.08-20.22.41:262][809]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.22.41:277][809]LogInit: FAudioDevice initialized.
+[2019.12.08-20.22.41:282][809]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.22.41:283][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.22.41
+[2019.12.08-20.22.41:283][809]LogWorld: Bringing up level for play took: 0.000410
+[2019.12.08-20.22.41:284][809]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.08-20.22.41:636][809]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:0069
+[2019.12.08-20.22.41:642][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Spawn Ground at Spawn Point
+[2019.12.08-20.22.41:649][809]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:00B2
+[2019.12.08-20.22.41:650][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Destroy Oldest Ground
+[2019.12.08-20.22.41:650][809]LogScript: Warning: Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:SpawnInitialGround:02AE
+[2019.12.08-20.22.41:650][809]PIE: Error: Blueprint Runtime Error: "Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill". Blueprint:  BP_Ground_Generation Function:  Spawn Initial Ground Graph:  SpawnInitialGround Node:  DestroyComponent
+[2019.12.08-20.22.41:650][809]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.22.41:651][809]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.22.41:651][809]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.22.41:651][809]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.22.41:669][809]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 0.037
+[2019.12.08-20.22.41:669][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.45:400][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.45:400][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.22.45:400][233]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.22.45:401][233]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.22.45:409][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.22.45:409][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.45:445][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.22.45:449][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.08-20.22.45:475][233]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.22.45:527][234]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.08-20.22.47:958][513]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.22.47:962][513]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.22.52:231][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.22.52:314][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.22.52:582][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.52:582][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.22.52:583][ 28]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:22:52 AM)
+[2019.12.08-20.22.52:583][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.22.52:596][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012479s)
+[2019.12.08-20.22.52:598][ 28]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.22.52:598][ 28]LogPlayLevel: PIE: World Init took: (0.002419s)
+[2019.12.08-20.22.52:598][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.015289s)
+[2019.12.08-20.22.52:643][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.08-20.22.52:666][ 28]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.22.52:676][ 28]LogInit: FAudioDevice initialized.
+[2019.12.08-20.22.52:681][ 28]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.22.52:682][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.22.52
+[2019.12.08-20.22.52:683][ 28]LogWorld: Bringing up level for play took: 0.000434
+[2019.12.08-20.22.52:683][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.08-20.22.52:685][ 28]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:0069
+[2019.12.08-20.22.52:685][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Spawn Ground at Spawn Point
+[2019.12.08-20.22.52:685][ 28]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:00B2
+[2019.12.08-20.22.52:685][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Destroy Oldest Ground
+[2019.12.08-20.22.52:685][ 28]LogScript: Warning: Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:SpawnInitialGround:02AE
+[2019.12.08-20.22.52:685][ 28]PIE: Error: Blueprint Runtime Error: "Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill". Blueprint:  BP_Ground_Generation Function:  Spawn Initial Ground Graph:  SpawnInitialGround Node:  DestroyComponent
+[2019.12.08-20.22.52:686][ 28]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.22.52:686][ 28]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.22.52:686][ 28]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.22.52:687][ 28]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.22.52:691][ 28]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 1.059
+[2019.12.08-20.22.52:691][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.22.57:486][572]LogScript: Warning: Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.22.57:486][572]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.22.57:736][602]LogScript: Warning: Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.22.57:736][602]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.22.57:978][631]LogScript: Warning: Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.22.57:978][631]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.22.58:220][660]LogScript: Warning: Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.22.58:220][660]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.22.58:461][689]LogScript: Warning: Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.22.58:461][689]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.02:296][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.02:297][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.23.02:297][148]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.23.02:297][148]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.23.02:308][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.23.02:308][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.02:338][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.23.02:343][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.08-20.23.02:351][148]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.23.02:410][150]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.08-20.23.05:523][512]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.23.05:527][512]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.23.07:288][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.23.19:176][116]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.23.19:191][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.19:191][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.23.19:191][116]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:23:19 AM)
+[2019.12.08-20.23.19:191][116]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.23.19:193][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002381s)
+[2019.12.08-20.23.19:194][116]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.23.19:195][116]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2019.12.08-20.23.19:195][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003662s)
+[2019.12.08-20.23.19:220][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.12.08-20.23.19:243][116]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.23.19:253][116]LogInit: FAudioDevice initialized.
+[2019.12.08-20.23.19:261][116]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.23.19:263][116]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.23.19
+[2019.12.08-20.23.19:263][116]LogWorld: Bringing up level for play took: 0.000462
+[2019.12.08-20.23.19:263][116]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.08-20.23.19:265][116]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:0069
+[2019.12.08-20.23.19:265][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Spawn Ground at Spawn Point
+[2019.12.08-20.23.19:265][116]LogScript: Warning: Accessed None trying to read property GenerateGround
+	BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0
+	Function /Game/Blueprints/BP_Ground.BP_Ground_C:ExecuteUbergraph_BP_Ground:00B2
+[2019.12.08-20.23.19:265][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GenerateGround". Blueprint:  BP_Ground Function:  Execute Ubergraph BP Ground Graph:  EventGraph Node:  Destroy Oldest Ground
+[2019.12.08-20.23.19:265][116]LogScript: Warning: Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:SpawnInitialGround:02AE
+[2019.12.08-20.23.19:265][116]PIE: Error: Blueprint Runtime Error: "Attempted to access SpawnTrigger via property SpawnTrigger, but SpawnTrigger is pending kill". Blueprint:  BP_Ground_Generation Function:  Spawn Initial Ground Graph:  SpawnInitialGround Node:  DestroyComponent
+[2019.12.08-20.23.19:266][116]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.23.19:266][116]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.23.19:266][116]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.23.19:267][116]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.23.19:271][116]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map -0.36
+[2019.12.08-20.23.19:271][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.22:016][440]LogScript: Warning: Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.23.22:016][440]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.22:258][469]LogScript: Warning: Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.23.22:258][469]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.22:499][498]LogScript: Warning: Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.23.22:499][498]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.22:741][527]LogScript: Warning: Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.23.22:742][527]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.22:983][556]LogScript: Warning: Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.23.22:983][556]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.23.26:889][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.26:889][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.23.26:889][ 22]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.23.26:889][ 22]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.23.26:896][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.23.26:896][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.23.26:927][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.23.26:931][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.08-20.23.26:939][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.23.26:994][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.08-20.24.05:574][583]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.24.05:578][583]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.24.13:895][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.24.14:003][583]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-20.24.44:897][569]LogSlate: Took 0.022903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.08-20.25.46:259][448]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.25.46:912][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.08-20.26.05:225][889]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.26.05:409][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.08-20.26.09:481][192]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.26.09:652][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.08-20.28.33:752][757]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.28.33:954][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.08-20.37.01:782][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.08-20.37.02:502][ 27]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Bradley_Test_Map_Auto15A0F88BF45B3FEA3BFCA5CA1444071AA.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Maps/Bradley_Test_Map_Auto1.umap'
+[2019.12.08-20.37.02:526][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Bradley_Test_Map' took 0.798
+[2019.12.08-20.37.02:526][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.798
+[2019.12.08-20.37.02:532][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Ground_Generation] ([1] browsable assets)...
+[2019.12.08-20.37.02:532][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ground_Generation]
+[2019.12.08-20.37.02:725][ 27]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/BP_Ground_Generation_Auto1DC3E1C484F0B1EEB698B3EBA7BFD8A93.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Blueprints/BP_Ground_Generation_Auto1.uasset'
+[2019.12.08-20.37.02:728][ 27]LogFileHelpers: Auto-saving content packages took 0.198
+[2019.12.08-20.47.02:689][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.08-20.47.02:883][929]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Bradley_Test_Map_Auto291367A4F48B69D03A5E156BBB84CC443.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Maps/Bradley_Test_Map_Auto2.umap'
+[2019.12.08-20.47.02:887][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Bradley_Test_Map' took 0.235
+[2019.12.08-20.47.02:887][929]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2019.12.08-20.47.02:889][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Ground_Generation] ([1] browsable assets)...
+[2019.12.08-20.47.02:889][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ground_Generation]
+[2019.12.08-20.47.02:972][929]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/BP_Ground_Generation_Auto2D751DD594E5EE50202F0CB947B6FB756.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Blueprints/BP_Ground_Generation_Auto2.uasset'
+[2019.12.08-20.47.02:975][929]LogFileHelpers: Auto-saving content packages took 0.086
+[2019.12.08-20.47.49:593][201]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.47.49:780][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.08-20.49.27:360][467]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/BP_Ground_GenerationEF0DAA874D3CD2C9F67C9FBE73A341EE.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Content/Blueprints/BP_Ground_Generation.uasset'
+[2019.12.08-20.49.29:658][656]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-20.49.29:851][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.08-20.49.31:197][759]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.49.31:202][759]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.49.31:203][759]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.49.32:354][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.49.32:394][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.49.32:394][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.49.32:395][888]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:49:32 AM)
+[2019.12.08-20.49.32:395][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.49.32:397][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002108s)
+[2019.12.08-20.49.32:398][888]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.49.32:398][888]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2019.12.08-20.49.32:398][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003375s)
+[2019.12.08-20.49.32:430][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.08-20.49.32:453][888]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.49.32:465][888]LogInit: FAudioDevice initialized.
+[2019.12.08-20.49.32:478][888]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.49.32:480][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.49.32
+[2019.12.08-20.49.32:480][888]LogWorld: Bringing up level for play took: 0.000698
+[2019.12.08-20.49.32:481][888]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.08-20.49.32:485][888]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-20.49.32:486][888]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.49.32:486][888]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.49.32:487][888]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.49.32:488][888]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.49.32:497][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 0.866
+[2019.12.08-20.49.32:497][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.49.45:930][495]LogScript: Warning: Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.49.45:930][495]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.46:172][524]LogScript: Warning: Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.49.46:172][524]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.46:414][553]LogScript: Warning: Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.49.46:414][553]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.46:655][582]LogScript: Warning: Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill
+	BP_Ground_Generation_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_Generation_2
+	Function /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation_C:DestroyOldestGround:000D
+[2019.12.08-20.49.46:655][582]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.46:905][612]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.47:147][641]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.49.49:554][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.49.49:554][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.49.49:554][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.49.49:555][929]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.49.49:564][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.49.49:564][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.49.49:601][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.49.49:605][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.08-20.49.49:613][929]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.49.49:671][931]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.08-20.50.21:624][702]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.50.21:628][702]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.50.22:801][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.50.22:942][857]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-20.50.36:225][101]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.50.36:230][101]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-20.50.36:237][101]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.50.37:377][228]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground.BP_Ground
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B998514CB-43BC-C344-60CD-109CF765D931%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=5516ff9148fe71204bf37a82e538b26a%7C03969d804acf4961890b6d35b778905f%7Cc9d3cf95-fb98-4798-a3bf-11780c13df40&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: libcurl info message cache 1 (Closing connection 12)
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.08-20.50.40:683][515]LogHttp: Warning: 0000023B60C49940: libcurl info message cache 4 (Closing connection 13)
+[2019.12.08-20.50.40:691][516]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B998514CB-43BC-C344-60CD-109CF765D931%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=5516ff9148fe71204bf37a82e538b26a%7C03969d804acf4961890b6d35b778905f%7Cc9d3cf95-fb98-4798-a3bf-11780c13df40&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.08-20.51.15:959][530]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-20.51.15:963][530]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-20.51.15:973][530]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.51.21:794][211]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chikcen.Chikcen
+[2019.12.08-20.51.23:904][314]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-20.51.45:341][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.52.02:036][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.52.15:248][890]LogEditorTransaction: Undo Set Location
+[2019.12.08-20.52.15:308][890]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-20.52.20:899][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.52.33:718][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.52.43:440][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.52.56:061][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.53.55:139][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.53.55:227][605]BlueprintLog: New page: Compile Chikcen
+[2019.12.08-20.53.55:494][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.08-20.53.57:083][731]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-20.53.57:088][731]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-20.53.57:097][731]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.53.58:240][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.53.58:255][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.53.58:255][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.53.58:255][856]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:53:58 AM)
+[2019.12.08-20.53.58:255][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.53.58:258][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002404s)
+[2019.12.08-20.53.58:259][856]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.53.58:259][856]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2019.12.08-20.53.58:259][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.004035s)
+[2019.12.08-20.53.58:286][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.08-20.53.58:308][856]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.53.58:318][856]LogInit: FAudioDevice initialized.
+[2019.12.08-20.53.58:327][856]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.53.58:328][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.53.58
+[2019.12.08-20.53.58:329][856]LogWorld: Bringing up level for play took: 0.000434
+[2019.12.08-20.53.58:329][856]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.08-20.53.58:331][856]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-20.53.58:331][856]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.53.58:332][856]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.53.58:332][856]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.53.58:332][856]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.53.58:337][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 0.705
+[2019.12.08-20.53.58:337][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.54.02:668][371]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.02:910][400]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.03:152][429]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.03:401][459]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.03:644][488]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.03:886][517]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.05:794][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.54.05:794][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.54.05:794][745]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.54.05:794][745]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.54.05:804][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.54.05:804][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.54.05:836][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.54.05:840][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.08-20.54.05:851][745]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.54.05:915][747]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.08-20.54.07:263][903]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.54.07:268][903]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.54.08:193][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.54.09:709][190]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chikcen.Chikcen
+[2019.12.08-20.54.51:870][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.54.51:947][794]BlueprintLog: New page: Compile Chikcen
+[2019.12.08-20.54.52:194][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.12.08-20.54.53:148][864]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-20.54.53:153][864]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-20.54.53:170][864]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.54.54:437][  8]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-20.54.54:451][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.54.54:451][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-20.54.54:451][  8]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 4:54:54 AM)
+[2019.12.08-20.54.54:451][  8]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.54.54:453][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2019.12.08-20.54.54:454][  8]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-20.54.54:454][  8]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2019.12.08-20.54.54:455][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003656s)
+[2019.12.08-20.54.54:488][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.08-20.54.54:510][  8]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-20.54.54:519][  8]LogInit: FAudioDevice initialized.
+[2019.12.08-20.54.54:529][  8]LogLoad: Game class is 'playemode_C'
+[2019.12.08-20.54.54:531][  8]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-12.54.54
+[2019.12.08-20.54.54:531][  8]LogWorld: Bringing up level for play took: 0.000403
+[2019.12.08-20.54.54:531][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.08-20.54.54:533][  8]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-20.54.54:533][  8]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-20.54.54:534][  8]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-20.54.54:534][  8]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-20.54.54:534][  8]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-20.54.54:539][  8]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 0.907
+[2019.12.08-20.54.54:539][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.54.58:646][497]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.58:889][526]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.59:130][554]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.59:439][591]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.59:689][621]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.54.59:930][650]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-20.55.01:223][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.55.01:223][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.55.01:223][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-20.55.01:223][805]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-20.55.01:231][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-20.55.01:231][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-20.55.01:263][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-20.55.01:267][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.08-20.55.01:276][805]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-20.55.01:335][807]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.08-20.55.03:052][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.55.03:057][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-20.55.05:173][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.55.05:305][272]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chikcen.Chikcen
+[2019.12.08-20.55.45:111][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.55.54:936][608]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-20.55.54:942][608]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-20.56.04:687][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.56.10:250][ 24]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-20.56.10:255][ 24]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-20.56.12:839][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.56.17:801][696]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-20.56.17:806][696]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-20.56.19:856][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.56.27:442][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.56.59:086][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.57.14:215][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.57.23:824][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.58.06:508][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.58.30:403][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.58.44:702][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.58.55:572][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.04:636][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.07:961][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.11:998][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.22:313][142]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-20.59.23:586][267]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-20.59.24:442][364]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-20.59.24:448][364]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-20.59.29:491][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.44:864][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-20.59.47:118][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.00.32:629][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.00.43:606][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.00.47:806][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.00.50:753][711]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.50:758][711]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.51:235][747]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.51:239][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.51:779][802]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.51:784][802]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.52:340][861]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.52:345][861]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.52:855][916]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.52:860][916]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.53:393][971]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.00.55:271][175]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.00.55:977][254]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.00.56:578][318]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.00.57:107][373]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.00.57:691][438]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.00.57:696][438]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.00.58:466][521]LogEditorTransaction: Undo Modify Component(s)
+[2019.12.08-21.01.42:714][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.01.42:797][200]BlueprintLog: New page: Compile Chikcen
+[2019.12.08-21.01.43:300][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.08-21.01.44:359][285]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.01.44:364][285]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.01.44:365][285]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.01.46:468][523]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-21.01.46:483][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.01.46:483][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-21.01.46:483][523]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 5:01:46 AM)
+[2019.12.08-21.01.46:483][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.01.46:486][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002396s)
+[2019.12.08-21.01.46:487][523]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-21.01.46:487][523]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2019.12.08-21.01.46:487][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003843s)
+[2019.12.08-21.01.46:519][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.08-21.01.46:542][523]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-21.01.46:552][523]LogInit: FAudioDevice initialized.
+[2019.12.08-21.01.46:558][523]LogLoad: Game class is 'playemode_C'
+[2019.12.08-21.01.46:559][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-13.01.46
+[2019.12.08-21.01.46:560][523]LogWorld: Bringing up level for play took: 0.000455
+[2019.12.08-21.01.46:560][523]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.08-21.01.46:562][523]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-21.01.46:562][523]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-21.01.46:563][523]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-21.01.46:563][523]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-21.01.46:563][523]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-21.01.46:567][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map 0.935
+[2019.12.08-21.01.46:568][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.01.48:908][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.01.48:908][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.01.48:908][801]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.01.48:909][801]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.01.48:916][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-21.01.48:916][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.01.48:949][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.01.48:954][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.12.08-21.01.49:011][805]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.08-21.01.50:212][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.01.50:362][965]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chikcen.Chikcen
+[2019.12.08-21.02.08:220][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.02.08:309][464]BlueprintLog: New page: Compile Chikcen
+[2019.12.08-21.02.08:514][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.12.08-21.02.09:425][535]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.02.09:430][535]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.02.09:431][535]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.02.11:299][751]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-21.02.11:314][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.02.11:314][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-21.02.11:314][751]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 5:02:11 AM)
+[2019.12.08-21.02.11:314][751]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.02.11:316][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002332s)
+[2019.12.08-21.02.11:317][751]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-21.02.11:318][751]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2019.12.08-21.02.11:318][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003622s)
+[2019.12.08-21.02.11:347][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.08-21.02.11:368][751]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-21.02.11:378][751]LogInit: FAudioDevice initialized.
+[2019.12.08-21.02.11:387][751]LogLoad: Game class is 'playemode_C'
+[2019.12.08-21.02.11:388][751]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-13.02.11
+[2019.12.08-21.02.11:389][751]LogWorld: Bringing up level for play took: 0.000445
+[2019.12.08-21.02.11:389][751]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.08-21.02.11:391][751]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-21.02.11:391][751]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-21.02.11:392][751]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-21.02.11:392][751]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-21.02.11:392][751]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-21.02.11:396][751]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map -0.235
+[2019.12.08-21.02.11:396][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.02.15:239][207]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.15:480][236]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.15:729][265]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.15:967][293]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.16:217][323]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.16:817][395]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.02.17:384][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.02.17:385][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.02.17:385][463]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.02.17:385][463]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.02.17:393][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-21.02.17:393][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.02.17:427][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.02.17:430][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.08-21.02.17:439][463]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-21.02.17:497][465]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.08-21.02.18:713][603]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-21.02.18:717][603]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-21.02.19:721][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.02.19:855][735]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Chikcen.Chikcen
+[2019.12.08-21.02.30:806][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.02.36:426][153]LogEditorTransaction: Undo Set Location
+[2019.12.08-21.02.36:431][153]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.02.42:729][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.02.54:225][783]LogEditorTransaction: Undo Set Location
+[2019.12.08-21.02.54:230][783]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.02.56:816][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.03.03:444][602]LogEditorTransaction: Undo Set Rotation
+[2019.12.08-21.03.03:448][602]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_16:PersistentLevel.Chikcen_C_0.CollisionCylinder) Component already registered.
+[2019.12.08-21.03.05:868][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.03.12:454][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.03.18:308][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.03.18:363][917]BlueprintLog: New page: Compile Chikcen
+[2019.12.08-21.03.18:565][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.08-21.03.19:627][  2]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.03.19:632][  2]LogSlate: Window 'Chikcen' being destroyed
+[2019.12.08-21.03.19:633][  2]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.03.21:042][162]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-21.03.21:057][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.03.21:057][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-21.03.21:057][162]PIE: New page: PIE session: Bradley_Test_Map (Dec 8, 2019, 5:03:21 AM)
+[2019.12.08-21.03.21:057][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.03.21:060][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002251s)
+[2019.12.08-21.03.21:061][162]LogAIModule: Creating AISystem for world Bradley_Test_Map
+[2019.12.08-21.03.21:061][162]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2019.12.08-21.03.21:061][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Bradley_Test_Map.Bradley_Test_Map to /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map (0.003565s)
+[2019.12.08-21.03.21:091][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.12.08-21.03.21:112][162]LogInit: XAudio2 using 'BenQ XL2720Z (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-21.03.21:122][162]LogInit: FAudioDevice initialized.
+[2019.12.08-21.03.21:131][162]LogLoad: Game class is 'playemode_C'
+[2019.12.08-21.03.21:131][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map up for play (max tick rate 0) at 2019.12.08-13.03.21
+[2019.12.08-21.03.21:132][162]LogWorld: Bringing up level for play took: 0.000428
+[2019.12.08-21.03.21:132][162]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.08-21.03.21:134][162]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_0.
+[2019.12.08-21.03.21:134][162]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_1.
+[2019.12.08-21.03.21:135][162]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_2.
+[2019.12.08-21.03.21:135][162]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_3.
+[2019.12.08-21.03.21:135][162]LogActorComponent: Error: May not destroy component BoxComponent /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.SpawnTrigger owned by BP_Ground_C /Game/Maps/UEDPIE_0_Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.BP_Ground_C_4.
+[2019.12.08-21.03.21:140][162]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Bradley_Test_Map -0.492
+[2019.12.08-21.03.21:140][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.03.25:312][660]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_0 via property OldestGround, but BP_Ground_C_0 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.25:554][689]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_1 via property OldestGround, but BP_Ground_C_1 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.25:795][717]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_2 via property OldestGround, but BP_Ground_C_2 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.26:045][747]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_3 via property OldestGround, but BP_Ground_C_3 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.26:287][776]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_4 via property OldestGround, but BP_Ground_C_4 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.26:528][805]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Ground_C_5 via property OldestGround, but BP_Ground_C_5 is pending kill". Blueprint:  BP_Ground_Generation Function:  Destroy Oldest Ground Graph:  DestroyOldestGround Node:  DestroyActor
+[2019.12.08-21.03.36:388][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.03.36:389][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.03.36:389][988]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Bradley_Test_Map
+[2019.12.08-21.03.36:389][988]LogWorld: UWorld::CleanupWorld for Bradley_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.03.36:397][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-21.03.36:397][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map' with GeneratedClass '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map_C' with ClassGeneratedBy '/Game/Maps/Bradley_Test_Map.Bradley_Test_Map:PersistentLevel.Bradley_Test_Map'
+[2019.12.08-21.03.36:432][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-21.03.36:435][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.08-21.03.36:444][988]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-21.03.36:502][990]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.08-21.03.39:810][378]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-21.03.39:814][378]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-21.03.42:144][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-21.03.42:260][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-21.04.46:933][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.08-21.04.47:119][462]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Bradley_Test_Map_Auto33136E9F44691A849932F738E9C51A266.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Maps/Bradley_Test_Map_Auto3.umap'
+[2019.12.08-21.04.47:123][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Bradley_Test_Map' took 0.225
+[2019.12.08-21.04.47:123][462]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2019.12.08-21.04.47:125][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Chikcen] ([1] browsable assets)...
+[2019.12.08-21.04.47:165][462]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Chikcen.Chikcen]
+[2019.12.08-21.04.47:165][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Chikcen]
+[2019.12.08-21.04.47:254][462]LogSavePackage: Moving 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Chikcen_Auto33098317744ABDC35B306E18F73F2DABE.tmp' to 'C:/Users/Bradley/Documents/Unreal Projects/Crossy_Roads/Crossy_Road/CrossyRoad 4.23/Saved/Autosaves/Game/Blueprints/Chikcen_Auto3.uasset'
+[2019.12.08-21.04.47:256][462]LogFileHelpers: Auto-saving content packages took 0.132
+[2019.12.08-21.07.03:016][639]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UActorComponent::K2_DestroyComponent' [Element not found.]
+[2019.12.08-21.08.06:188][253]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-21.08.06:195][253]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-21.08.06:205][253]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.08.11:295][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground.BP_Ground
+[2019.12.08-21.08.37:488][860]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-21.08.37:493][860]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-21.08.37:501][860]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.08.41:835][368]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-21.09.44:109][458]BlueprintLog: New page: Compile BP_Ground_Generation
+[2019.12.08-21.09.44:306][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.08-21.09.46:124][605]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-21.09.46:129][605]LogSlate: Window 'BP_Ground_Generation' being destroyed
+[2019.12.08-21.09.46:137][605]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.09.47:864][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground.BP_Ground
+[2019.12.08-21.10.41:375][734]BlueprintLog: New page: Compile BP_Ground
+[2019.12.08-21.10.41:553][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.08-21.10.43:250][923]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-21.10.43:255][923]LogSlate: Window 'BP_Ground' being destroyed
+[2019.12.08-21.10.43:280][923]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-21.10.44:638][ 77]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ground_Generation.BP_Ground_Generation
+[2019.12.08-21.11.07:816][282]LogUObjectBase: Warning: Object is not registered
+[2019.12.08-21.11.07:844][282]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.08-21.11.08:030][282]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.186 s
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: 
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: Stack: 
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e9065279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e8887fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e889622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-21.11.08:030][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e5296c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e28c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9e287e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9f7fcd644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9f81bc533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9f801922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9f7ff5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff9f7fe9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa02344c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa023326df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa02347340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa0232edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa36a2c906 USER32.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa36a2c422 USER32.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa023488e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff7119b6980 UE4Editor.exe!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff7119ca91c UE4Editor.exe!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff7119ca9fa UE4Editor.exe!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff7119db92c UE4Editor.exe!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ff7119de60e UE4Editor.exe!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa36667974 KERNEL32.DLL!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: [Callstack] 0x00007ffa374aa271 ntdll.dll!UnknownFunction []
+[2019.12.08-21.11.08:031][282]LogOutputDevice: Error: 
+[2019.12.08-21.11.08:063][282]LogStats:                SubmitErrorReport -  0.000 s
